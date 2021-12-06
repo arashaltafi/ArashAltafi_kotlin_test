@@ -1,7 +1,9 @@
 # ArashAltafi_kotlin_test
 
-آرش الطافی
+MVVM
 
-تست
+Koin
 
-کاتلین
+Retrofit
+
+RecyclerView
